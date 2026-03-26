@@ -80,11 +80,8 @@ This project helped me understand how to use digital tools effectively, maintain
   1. Request for assignment extension  
   2. Internship application email  
 - Created a Social Media Do’s and Don’ts checklist  
-
- Files:  
-- `task-4-email-etiquette/emails.txt`  
-- `task-4-email-etiquette/social-media-checklist.txt`  
-.TASK 4 Student Performance Predictor.txt
+https://github.com/likhithaandra4-svg/digital-literacy/blob/547f14e930e1d6c79c4b45e9ed025f55d113116f/task%204%20deadline%20extension
+ 
 
 
 Task 5 – Cybercrime Awareness
