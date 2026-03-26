@@ -84,7 +84,7 @@ This project helped me understand how to use digital tools effectively, maintain
  Files:  
 - `task-4-email-etiquette/emails.txt`  
 - `task-4-email-etiquette/social-media-checklist.txt`  
-
+.
 
 
 Task 5 – Cybercrime Awareness
