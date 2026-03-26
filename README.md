@@ -37,9 +37,15 @@ This project helped me understand how to use digital tools effectively, maintain
 - Outcome: Learned the importance of maintaining a professional digital identity.  
 
  Files:  
-- `task-2-portfolio/github.png`  
-- `task-2-portfolio/linkedin.png`  
-- `task-2-portfolio/kaggle.png`  
+- `task-2-portfolio/github.png
+- `  <img width="1920" height="1080" alt="Screenshot 2026-03-25 220651" src="https://github.com/user-attachments/assets/1125d071-9abf-42ad-ae61-0fb79ab69132" />
+
+- `task-2-portfolio/linkedin.png`
+- <img width="1025" height="842" alt="Screenshot 2026-03-24 231341" src="https://github.com/user-attachments/assets/1497c03b-7309-408d-9492-a1992ded4f26" />
+  
+- `task-2-portfolio/kaggle.png`
+- <img width="1897" height="1061" alt="Screenshot 2026-03-24 234817" src="https://github.com/user-attachments/assets/e092441f-491f-4f8f-9160-af5c9de23cf0" />
+
 
 
 
@@ -47,17 +53,25 @@ This project helped me understand how to use digital tools effectively, maintain
  Part A – Coding Platform
 - Platform: HackerRank  
 - Activity: Completed a beginner-level coding problem  
+  
 
  Part B – Google Form
 - Created a Digital Literacy Awareness Quiz with 5 questions  
 - Collected responses using Google Sheets  
 
-🔗 Google Form Link: [Paste your link here]
+
 
  Files:  
-- `task-3-platforms/hackerrank.png`  
-- `task-3-platforms/google-form.png`  
-- `task-3-platforms/responses.png`  
+- `task-3-platforms/hackerrank.png`
+-   <img width="1888" height="988" alt="Screenshot 2026-03-25 000536" src="https://github.com/user-attachments/assets/03e7245e-4144-4e1b-a6e0-55380aa1d382" />
+
+- `task-3-platforms/google-form.png`
+-   https://docs.google.com/forms/d/e/1FAIpQLSde81-zcSaer1YafUg1oBHWmF3Vo_QizmGAV5kI3P9pP4YnUg/viewform?usp=publish-editor
+-   
+- `task-3-platforms/responses.png`
+ 
+-   
+<img width="1427" height="704" alt="Screenshot 2026-03-26 184825" src="https://github.com/user-attachments/assets/96b6c20a-9eec-4749-97bb-3329e32943c2" />
 
 
 
@@ -71,7 +85,7 @@ This project helped me understand how to use digital tools effectively, maintain
 - `task-4-email-etiquette/emails.txt`  
 - `task-4-email-etiquette/social-media-checklist.txt`  
 
----
+
 
 Task 5 – Cybercrime Awareness
  Case Study
