@@ -126,7 +126,7 @@ The detailed report of all tasks is included in the repository.
 
  Conclusion
 This project enhanced my knowledge of digital tools and online practices. It helped me build a strong foundation in digital literacy, which will be useful in my academic journey and future career.
-
+https://github.com/likhithaandra4-svg/digital-literacy/blob/aa8fcda2aacb699dc3c681bea3990a7dfcf9b63e/DIGITAL%20LITERACY%20PROJECT%20REPORT.docx
 
 
  References
