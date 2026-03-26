@@ -96,7 +96,7 @@ Task 5 – Cybercrime Awareness
 - `task-5-cybercrime/casestudy.txt`  
 - `task-5-cybercrime/prevention-checklist.txt`  
 https://github.com/likhithaandra4-svg/digital-literacy/blob/44ace82891b50d0f501da28871f65fa7442d3bf4/TASK%205%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Check.txt
-
+https://github.com/likhithaandra4-svg/digital-literacy/blob/5fa6416a86687887439b42609b202a3404c2707b/TASK%205%20PHIISHING%20CASE%20STUDY%20%20%20%20%20%20%20Phishing.txt
 
  Project Report
 The detailed report of all tasks is included in the repository.
