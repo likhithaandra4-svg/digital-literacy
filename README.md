@@ -25,7 +25,7 @@ This project helped me understand how to use digital tools effectively, maintain
  File: `task-1-presentation/infographic.png`
 <img width="316" height="783" alt="Screenshot 2026-03-26 182748" src="https://github.com/user-attachments/assets/4cc94e5f-7b2c-446f-9bc5-b9695c57c3d6" />
 
-
+--
 
 
  Task 2 – Digital Portfolio
